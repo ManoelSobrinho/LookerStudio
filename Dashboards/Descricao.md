@@ -8,30 +8,31 @@ Nela existem 3 abas:
 
 ### Venda
 
-ID_Venda: Chave que identifica uma venda.
+**ID_Venda**: Chave que identifica uma venda.
 
-ID_Produto: Chave que identifica o produto.
+**ID_Produto**: Chave que identifica o produto.
 
-Quantidade:	Quantidade de itens vendidos.
+**Quantidade**:	Quantidade de itens vendidos.
 
-DataCompra: Data que o produto foi comprado pelo cliente.
+**DataCompra**: Data que o produto foi comprado pelo cliente.
 
 ### Produto
 
-ID_Produto: Chave que identifica o produto.
+**ID_Produto**: Chave que identifica o produto.
 
-Nome: Nome do produto.
+**Nome**: Nome do produto.
 
-ValorCompra: Valor que o produto foi comprado pelo estabelicimento.
+**ValorCompra**: Valor que o produto foi comprado pelo estabelicimento.
 
-ValorVenda:	Valor de venda do produto para o cliente.
+**ValorVenda**:	Valor de venda do produto para o cliente.
 
-ID_Categoria: Chave que identifica a categoria do produto.
+**ID_Categoria**: Chave que identifica a categoria do produto.
 
 ### Categoria
 
-ID_Categoria:	Chave que identifica a categoria do produto.
+**ID_Categoria**:	Chave que identifica a categoria do produto.
 
-Nome: Nome da categoria.
+**Nome**: Nome da categoria.
 
-OBS: Os dados são fictícios.
+<span style="color:red;">**OBS: Os dados são fictícios**.</span>
+
