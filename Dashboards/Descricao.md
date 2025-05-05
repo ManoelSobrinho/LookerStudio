@@ -44,6 +44,9 @@ O dashboard está disposto em duas abas:
 
 Tem como objetivo mostrar dados sobre as vendas do estabelecimento.
 
+![image](https://github.com/user-attachments/assets/e3b46d34-4b4e-437d-bfa3-8b9a1d7a170d)
+
+
 ### Controle Financeiro
 
 Tem como objetivo ilustrar as informações referentes à movimentação financeira ao setor resposável do estabelecimento.
