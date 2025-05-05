@@ -46,9 +46,10 @@ Tem como objetivo mostrar dados sobre as vendas do estabelecimento.
 
 ![image](https://github.com/user-attachments/assets/e3b46d34-4b4e-437d-bfa3-8b9a1d7a170d)
 
-
 ### Controle Financeiro
 
 Tem como objetivo ilustrar as informações referentes à movimentação financeira ao setor resposável do estabelecimento.
+
+![image](https://github.com/user-attachments/assets/4bdad0e2-fb5d-4ff0-a23f-2445801a8e9a)
 
 [**Veja o gráfico interativo no Looker Studio**](https://lookerstudio.google.com/reporting/4b6b14ee-0221-4311-b735-edc85c5e8aa7)
