@@ -36,3 +36,6 @@ Nela existem 3 abas:
 
 <span style="color:red;">**OBS: Os dados são fictícios**.</span>
 
+<strong><span style="color:green;">Texto em negrito e verde</span></strong>
+
+
