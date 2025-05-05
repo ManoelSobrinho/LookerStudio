@@ -34,8 +34,16 @@ Nela existem 3 abas:
 
 **Nome**: Nome da categoria.
 
-<span style="color:red;">**OBS: Os dados são fictícios**.</span>
+**OBS: Os dados são fictícios.**
 
-<strong><span style="color:green;">Texto em negrito e verde</span></strong>
+## Dashboard
 
+O dashboard está disposto em duas abas:
 
+### Vendas
+
+Tem como objetivo mostrar dados sobre as vendas do estabelecimento.
+
+### Controle Financeiro
+
+Tem como objetivo ilustrar as informações referentes à movimentação financeira ao setor resposável do estabelecimento.
